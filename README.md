@@ -1,4 +1,4 @@
-##Hey there! 👋
+## Hey there! 👋
 
 I'm Ali, a bug bounty hunter based in Pakistan.
 
@@ -12,11 +12,12 @@ I've reported vulnerabilities across IDORs, stored XSS, CSRF, and account takeov
 
 I'm currently leveling up on PortSwigger Web Security Academy.
 
-##Tools & Tech
+## Tools & Tech
 Kali Linux, Burp Suite
 subfinder, httpx, nuclei, katana, waybackurls, dalfox, sqlmap
 Python, Bash
-##A Bit About Me
+
+## A Bit About Me
 🎯 Self-taught in security
 💰 Landed some handsome bounties along the way
 🎮 Into gaming and CTFs when I'm not hunting bugs
