@@ -19,6 +19,9 @@ Python, Bash
 
 ## A Bit About Me
 🎯 Self-taught in security
+
 💰 Landed some handsome bounties along the way
+
 🎮 Into gaming and CTFs when I'm not hunting bugs
+
 🚀 Working toward VAPT → Penetration Tester → AppSec Engineer
