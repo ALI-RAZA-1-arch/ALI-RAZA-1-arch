@@ -1,4 +1,4 @@
-Hey there! 👋
+## Hey there! 👋
 
 I'm Ali, a bug bounty hunter based in Pakistan.
 
