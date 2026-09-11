@@ -14,7 +14,9 @@ I'm currently leveling up on PortSwigger Web Security Academy.
 
 ## Tools & Tech
 Kali Linux, Burp Suite
+
 subfinder, httpx, nuclei, katana, waybackurls, dalfox, sqlmap
+
 Python, Bash
 
 ## A Bit About Me
